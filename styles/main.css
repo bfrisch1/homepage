@@ -1,0 +1,100 @@
+*, html, body {
+
+	margin:0;
+	padding:0;
+}
+
+body {
+
+	font-family: 'Lato', sans-serif;
+	background-color: #dddddd;
+}
+
+
+h1{
+font-size: 72px;
+text-align: center;
+margin:0 auto;
+font-weight: 100;
+}
+
+h2 {
+	font-size:34px;
+	text-align: center;
+	margin: 0 auto;
+	font-weight: 100;
+
+}
+
+.page {
+background-color: #fff;
+height: 500px;
+width:900px;
+margin:25px auto;
+box-shadow: 2px 2px 3px 0px #A0A0A0;
+
+}
+
+.header {
+background-color: #EF5350;
+color:#fff;
+padding:0 0 15px 0;
+
+}
+
+.resume-header {
+color:#333;
+
+}
+
+
+.contact-div p {
+font-size: 22px;
+text-align: center;
+width: 650px;
+margin:10px auto;
+padding:;
+color: #333;
+font-weight: 100;
+font-style: italic;
+
+}
+
+.contact-div a {
+
+	text-decoration: none;
+	color:#333;
+}
+
+.workxp-header {
+font-size: 24px;
+margin: 2px 15px;
+
+}
+
+.hr-header {
+width:250px;
+margin: 0 15px;
+
+}
+
+.work-entry {
+padding:8px 0 0 15px;
+font-weight: 300;
+font-size: 22px;
+}
+
+.company-description {
+font-size:18px;
+font-weight: 100;
+
+}
+
+.work-description{
+font-size: 16px;
+font-weight:300;
+
+}
+
+
+}
